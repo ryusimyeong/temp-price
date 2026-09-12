@@ -1,0 +1,601 @@
+{
+  "query": "갤럭시 S23",
+  "region": "역삼동-6035",
+  "capturedAt": "2026-09-12T07:52:19.244Z",
+  "labels": [
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "s9cjk6huzj59",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-512gb-256gb-%EC%83%88%ED%8F%B0%EA%B8%89-sss%EA%B8%89-%EA%B3%B5%EA%B8%B0%EA%B3%84-%ED%8C%9D%EB%8B%88%EB%8B%A4-s9cjk6huzj59/",
+        "title": "갤럭시 S23 512gb 256gb 새폰급 SSS급 공기계 팝니다!",
+        "priceText": "350,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "ofbgbwcouru5",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23fe-256gb-%EB%AC%B4%EC%9E%94%EC%83%81-s%EA%B8%89-%EA%B3%B5%EA%B8%B0%EA%B3%84-%ED%8C%9D%EB%8B%88%EB%8B%A4-ofbgbwcouru5/",
+        "title": "갤럭시 s23fe 256gb 무잔상 S급 공기계 팝니다",
+        "priceText": "300,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "puof6vw9gfwx",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EB%9D%BC%EB%B2%A4%EB%8D%94-256gb-%ED%92%80%EB%B0%95%EC%8A%A4-puof6vw9gfwx/",
+        "title": "갤럭시 S23 라벤더 256GB 풀박스",
+        "priceText": "350,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "6gjqcnimxfn4",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%ED%81%AC%EB%A6%BC-%EB%B8%94%EB%9E%99-%EA%B7%B8%EB%A6%B0-256gb-%EC%83%88%ED%8F%B0%EA%B8%89-sss%EA%B8%89-%EB%AC%B4%EC%9E%94%EC%83%81-%ED%8C%9D%EB%8B%88%EB%8B%A4-6gjqcnimxfn4/",
+        "title": "갤럭시 S23 크림 블랙 그린 256GB 새폰급 SSS급 무잔상 팝니다!",
+        "priceText": "350,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "zbaqua27pq8p",
+        "url": "https://www.daangn.com/kr/buy-sell/%EC%83%81%ED%83%9C%EC%95%84%EC%A3%BC%EC%96%91%ED%98%B8-%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EC%9A%B8%ED%8A%B8%EB%9D%BC-512gb-%EB%B8%94%EB%9E%99-zbaqua27pq8p/",
+        "title": "[상태아주양호] 삼성 갤럭시 S23 울트라 512GB 블랙",
+        "priceText": "530,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "ko2j8kiijrp6",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%9D%BC%EB%B2%A4%EB%8D%94-256gb-ss%EA%B8%89-%EA%B3%B5%EA%B8%B0%EA%B3%84-ko2j8kiijrp6/",
+        "title": "갤럭시 S23플러스 라벤더 256gb SS급 공기계!!",
+        "priceText": "350,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "bq6uocuxgc2j",
+        "url": "https://www.daangn.com/kr/buy-sell/%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EC%9A%B8%ED%8A%B8%EB%9D%BC-256gb-%ED%8C%AC%ED%85%80-%EB%B8%94%EB%9E%99-bq6uocuxgc2j/",
+        "title": "삼성 갤럭시 S23 울트라 256GB 팬텀 블랙",
+        "priceText": "500,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "todv17f1w8tr",
+        "url": "https://www.daangn.com/kr/buy-sell/%EC%8B%A0%EB%8F%99%ED%92%88-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EB%A0%88%EC%96%B4%EC%BB%AC%EB%9F%AC-%EB%9D%BC%EB%B2%A4%EB%8D%94-256gb-s%EA%B8%89-todv17f1w8tr/",
+        "title": "신동품 갤럭시 S23 레어컬러 라벤더 256GB S급",
+        "priceText": "340,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "2f174v7ihrc2",
+        "url": "https://www.daangn.com/kr/buy-sell/%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EC%9A%B8%ED%8A%B8%EB%9D%BC-512gb-%EB%B8%94%EB%9E%99-2f174v7ihrc2/",
+        "title": "삼성 갤럭시 S23 울트라 512GB 블랙",
+        "priceText": "500,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "4umrh7q5bnt8",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EC%8B%A4%EB%B2%84-4umrh7q5bnt8/",
+        "title": "갤럭시 S23 실버",
+        "priceText": "530,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "kn6vx5j5aqxn",
+        "url": "https://www.daangn.com/kr/buy-sell/%EB%AF%B8%EC%82%AC%EC%9A%A9-%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%B9%B4%EB%93%9C-%EC%88%98%EB%82%A9-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%84%A4%EC%9D%B4%EB%B9%84-kn6vx5j5aqxn/",
+        "title": "(미사용) 삼성 갤럭시 S23 플러스 카드 수납 케이스 네이비",
+        "priceText": "3,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "hw988e3a52zn",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23%ED%94%8C%EB%9F%AC%EC%8A%A4-%ED%88%AC%EB%AA%85-%EC%BC%80%EC%9D%B4%EC%8A%A4-hw988e3a52zn/",
+        "title": "갤럭시 S23플러스 투명 케이스",
+        "priceText": "2,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "sksc5p3evvho",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%ED%8F%B0%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%AA%A8%EC%9D%8C-sksc5p3evvho/",
+        "title": "갤럭시 S23 폰케이스 모음",
+        "priceText": "4,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "wjx7j4tnmpn9",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%ED%88%AC%EB%AA%85%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%83%88%EC%A0%9C%ED%92%88-2%EA%B0%9C-wjx7j4tnmpn9/",
+        "title": "갤럭시 S23 투명케이스 새제품 2개",
+        "priceText": "5,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "8pqydoaeu37r",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-bfma-%ED%8F%B0%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%B8%94%EB%9E%99-8pqydoaeu37r/",
+        "title": "갤럭시 S23 BFMA 폰케이스 블랙",
+        "priceText": "5,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "zy7c7iniozhz",
+        "url": "https://www.daangn.com/kr/buy-sell/%EB%A7%81%EC%BC%80-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EC%BC%80%EC%9D%B4%EC%8A%A4-zy7c7iniozhz/",
+        "title": "링케 갤럭시 S23 케이스",
+        "priceText": "4,500원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "s1imcgcm8fso",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EC%9A%B8%ED%8A%B8%EB%9D%BC-%EC%9E%90%EA%B8%89%EC%A0%9C-256g%EA%B0%80-%ED%8C%90%EB%A7%A4%ED%95%A9%EB%8B%88%EB%8B%A4-s1imcgcm8fso/",
+        "title": "갤럭시 s23 울트라 자급제 256g가 판매합니다.",
+        "priceText": "700,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "7mh2xmbwq2k8",
+        "url": "https://www.daangn.com/kr/buy-sell/%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EC%9A%B8%ED%8A%B8%EB%9D%BC-%ED%88%AC%EB%AA%85-%EB%A7%A5%EC%84%B8%EC%9D%B4%ED%94%84-%EC%BC%80%EC%9D%B4%EC%8A%A4-7mh2xmbwq2k8/",
+        "title": "갤럭시 S23 울트라 투명 맥세이프 케이스",
+        "priceText": "1,500원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "q4pr76tfyx6p",
+        "url": "https://www.daangn.com/kr/buy-sell/%EC%83%88%EC%83%81%ED%92%88-%EC%BC%80%EC%9D%B4%EC%8A%A4%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%BC%80%EC%9D%B4%EC%8A%A4-q4pr76tfyx6p/",
+        "title": "(새상품) 케이스티파이 갤럭시 S23플러스 케이스",
+        "priceText": "48,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "daangn",
+        "externalId": "shyhu9rhwfut",
+        "url": "https://www.daangn.com/kr/buy-sell/earpearp-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s23-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%BC%80%EC%9D%B4%EC%8A%A4-shyhu9rhwfut/",
+        "title": "EARPEARP 갤럭시 S23 고양이 케이스",
+        "priceText": "5,000원",
+        "location": "역삼동"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "394166674",
+        "url": "https://m.bunjang.co.kr/products/394166674",
+        "title": "[미사용/새상품] 갤럭시Z폴드7 재고정리 할인 [S23,24,25,26]",
+        "priceText": "990000",
+        "imageUrl": "https://media.bunjang.co.kr/product/394166674_1_1788158092_w640.jpg",
+        "sellerKey": "f0105d071bfd35bc4f297310"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "423260325",
+        "url": "https://m.bunjang.co.kr/products/423260325",
+        "title": "[미사용/새상품]갤럭시Z폴드8 할인특가 [갤럭시S23,24,25,26시리즈 재고정리 / Z플립,폴드 5,6,7시리즈 재고정리]",
+        "priceText": "990000",
+        "imageUrl": "https://media.bunjang.co.kr/product/423260325_1_1785989749_w640.jpg",
+        "sellerKey": "f0105d071bfd35bc4f297310"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "431069365",
+        "url": "https://m.bunjang.co.kr/products/431069365",
+        "title": "리퍼급]갤럭시S23 블랙 무잔상 최고등급",
+        "priceText": "399000",
+        "imageUrl": "https://media.bunjang.co.kr/product/431069365_1_1789198949_w640.jpg",
+        "postedText": "9분 전",
+        "sellerKey": "4860227a8d72066cef79cd23"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "423985371",
+        "url": "https://m.bunjang.co.kr/products/423985371",
+        "title": "s급 갤럭시 s23 fe 256기가 크림",
+        "priceText": "350000",
+        "imageUrl": "https://media.bunjang.co.kr/product/423985371_1_1786509968_w640.jpg",
+        "postedText": "31분 전",
+        "sellerKey": "097f36982f4f8f6555f1e854"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "431065655",
+        "url": "https://m.bunjang.co.kr/products/431065655",
+        "title": "갤럭시 S23 울트라 512GB 팬텀블랙",
+        "priceText": "550000",
+        "imageUrl": "https://media.bunjang.co.kr/product/431065655_1_1789198451_w640.jpg",
+        "postedText": "23분 전",
+        "sellerKey": "4bb5db538dd36c7b1e66e4e0"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "394166342",
+        "url": "https://m.bunjang.co.kr/products/394166342",
+        "title": "[미사용/새상품] 갤럭시Z플립7 재고정리 할인 [S23,24,25,26]",
+        "priceText": "280000",
+        "imageUrl": "https://media.bunjang.co.kr/product/394166342_1_1788158106_w640.jpg",
+        "sellerKey": "f0105d071bfd35bc4f297310"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "421112924",
+        "url": "https://m.bunjang.co.kr/products/421112924",
+        "title": "특가 갤럭시Z폴드8 미사용 선착순 한정판매 폴더블/S23/24/25/26/7",
+        "priceText": "1070000",
+        "imageUrl": "https://media.bunjang.co.kr/product/421112924_1_1786015209_w640.jpg",
+        "postedText": "7분 전",
+        "sellerKey": "afe3bcaa21ada128e4fbbc61"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "429904573",
+        "url": "https://m.bunjang.co.kr/products/429904573",
+        "title": "갤럭시 S23 256GB 라벤더",
+        "priceText": "350000",
+        "imageUrl": "https://media.bunjang.co.kr/product/429904573_1_1788839626_w640.jpg",
+        "postedText": "36분 전",
+        "sellerKey": "f11f90db9c9fc276f68c60d7"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "424049863",
+        "url": "https://m.bunjang.co.kr/products/424049863",
+        "title": "[할인특가/미사용]갤럭시Z폴드8울트라 판매합니다+S23,24,25,26,플립시리즈",
+        "priceText": "1650000",
+        "imageUrl": "https://media.bunjang.co.kr/product/424049863_1_1786538177_w640.jpg",
+        "postedText": "12분 전",
+        "sellerKey": "01b188dffb63bdc2ae76c737"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "424048923",
+        "url": "https://m.bunjang.co.kr/products/424048923",
+        "title": "[할인특가/미사용]갤럭시Z플립8 판매합니다+S23,24,25,26,울트라,폴드시리즈",
+        "priceText": "780000",
+        "imageUrl": "https://media.bunjang.co.kr/product/424048923_1_1786537816_w640.jpg",
+        "postedText": "22분 전",
+        "sellerKey": "01b188dffb63bdc2ae76c737"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "423260743",
+        "url": "https://m.bunjang.co.kr/products/423260743",
+        "title": "[미사용/새상품]갤럭시Z폴드8 울트라 할인특가 [갤럭시S23,24,25,26시리즈 재고정리 / Z플립,폴드 5,6,7시리즈 재고정리]",
+        "priceText": "1290000",
+        "imageUrl": "https://media.bunjang.co.kr/product/423260743_1_1785989877_w640.jpg",
+        "sellerKey": "f0105d071bfd35bc4f297310"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "430839657",
+        "url": "https://m.bunjang.co.kr/products/430839657",
+        "title": "삼성 갤럭시 S23울트라",
+        "priceText": "530000",
+        "imageUrl": "https://media.bunjang.co.kr/product/430839657_1_1789123902_w640.jpg",
+        "postedText": "40분 전",
+        "sellerKey": "baa46c49027ec019c2e348d0"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "424699777",
+        "url": "https://m.bunjang.co.kr/products/424699777",
+        "title": "갤럭시 S23 256GB 블랙",
+        "priceText": "240000",
+        "imageUrl": "https://media.bunjang.co.kr/product/424699777_1_1788832450_w640.jpg",
+        "postedText": "36분 전",
+        "sellerKey": "f11f90db9c9fc276f68c60d7"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "431060412",
+        "url": "https://m.bunjang.co.kr/products/431060412",
+        "title": "갤럭시 S23 핸드폰 케이스 Summer Color Pops 글라스 범퍼 케이스 실버 맥세이프",
+        "priceText": "11000",
+        "imageUrl": "https://media.bunjang.co.kr/product/431060412_1_1789197976_w640.jpg",
+        "postedText": "41분 전",
+        "sellerKey": "df3d3bc58a396cfb2e9014c6"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "423260129",
+        "url": "https://m.bunjang.co.kr/products/423260129",
+        "title": "[미사용/새상품]갤럭시Z플립8 할인특가 [갤럭시S23,24,25,26시리즈 재고정리 / Z플립,폴드 5,6,7시리즈 재고정리]",
+        "priceText": "460000",
+        "imageUrl": "https://media.bunjang.co.kr/product/423260129_1_1785989669_w640.jpg",
+        "sellerKey": "f0105d071bfd35bc4f297310"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "431055728",
+        "url": "https://m.bunjang.co.kr/products/431055728",
+        "title": "갤럭시 s23 256",
+        "priceText": "308900",
+        "imageUrl": "https://media.bunjang.co.kr/product/431055728_1_1789196851_w640.jpg",
+        "postedText": "56분 전",
+        "sellerKey": "b532cb03b3c975fc0b47b177"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "430815398",
+        "url": "https://m.bunjang.co.kr/products/430815398",
+        "title": "A+급 갤럭시 S23 512기가 블랙 512GB 판매합니다 A급 정상해지 공기계",
+        "priceText": "370000",
+        "imageUrl": "https://media.bunjang.co.kr/product/430815398_1_1789179240_w640.jpg",
+        "postedText": "49분 전",
+        "sellerKey": "d8c2cc6aad4333f1737e1332"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "388086795",
+        "url": "https://m.bunjang.co.kr/products/388086795",
+        "title": "중고폰매입 갤럭시 S26.S25.S24.S23.Z폴드.Z플립.울트라.프로",
+        "priceText": "9990000",
+        "imageUrl": "https://media.bunjang.co.kr/product/388086795_1_1783526667_w640.jpg",
+        "postedText": "33분 전",
+        "sellerKey": "b535f0ceae1d3cb415cf57f4"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "424849479",
+        "url": "https://m.bunjang.co.kr/products/424849479",
+        "title": "[할인특가/미사용]갤럭시Z폴드8와이드 판매합니다+S23,24,25,26,플립시리즈",
+        "priceText": "1350000",
+        "imageUrl": "https://media.bunjang.co.kr/product/424849479_1_1787137482_w640.jpg",
+        "postedText": "32분 전",
+        "sellerKey": "01b188dffb63bdc2ae76c737"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    },
+    {
+      "listing": {
+        "marketplace": "bunjang",
+        "externalId": "394162001",
+        "url": "https://m.bunjang.co.kr/products/394162001",
+        "title": "[미사용/새상품] 갤럭시S25 재고정리 할인 [23,24,26,Z플립7]",
+        "priceText": "90000",
+        "imageUrl": "https://media.bunjang.co.kr/product/394162001_1_1785977559_w640.jpg",
+        "sellerKey": "f0105d071bfd35bc4f297310"
+      },
+      "relevant": null,
+      "advertisement": null,
+      "normal": null,
+      "reviewed": false
+    }
+  ]
+}

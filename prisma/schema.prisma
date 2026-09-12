@@ -1,0 +1,44 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Search {
+  id        String    @id @default(uuid())
+  query     String
+  queryKey  String
+  region    String
+  status    String
+  markets   Json
+  createdAt DateTime  @default(now())
+  listings  Listing[]
+
+  @@index([queryKey, region, createdAt])
+  @@index([createdAt])
+}
+
+model Listing {
+  id              String   @id @default(uuid())
+  searchId        String
+  search          Search   @relation(fields: [searchId], references: [id], onDelete: Cascade)
+  position        Int
+  marketplace     String
+  externalId      String
+  url             String
+  title           String
+  normalizedTitle String
+  priceText       String
+  price           Int?
+  imageUrl        String?
+  location        String?
+  sellerKey       String?
+  postedText      String?
+  excludedReason  String?
+
+  @@index([searchId, position])
+  @@index([marketplace, externalId])
+}

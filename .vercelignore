@@ -1,0 +1,11 @@
+.env*
+.git/
+artifacts/
+fixtures/
+scripts/
+**/*.test.ts
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+docs/

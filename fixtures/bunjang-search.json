@@ -1,0 +1,77 @@
+{
+  "data": {
+    "searchSpec": {
+      "uiBlockList": [
+        {
+          "id": "mainGrid",
+          "searchResponse": {
+            "data": [
+              {
+                "pid": 355734470,
+                "name": "중고폰매입 파손폰매입 아이폰매입 고장폰 파손폰 아이폰15프로 17프로",
+                "price": 486000,
+                "productImage": "https://media.bunjang.co.kr/product/355734470_1_1783736327_w{res}.jpg",
+                "type": "PRODUCT"
+              },
+              {
+                "pid": 425751521,
+                "name": "중고폰 파손폰 아이폰 미개봉 자급제 공기계 유심기변 새폰 풀박스 갤럭시 아이폰17프로 아이폰16프로 아이폰15프로",
+                "price": 990000,
+                "productImage": "https://media.bunjang.co.kr/product/425751521_1_1787731455_w{res}.jpg",
+                "type": "PRODUCT"
+              },
+              {
+                "pid": 430464598,
+                "name": "아이폰15프로 256gb 배터리86",
+                "price": 630000,
+                "productImage": "https://media.bunjang.co.kr/product/430464598_1_1789110534_w{res}.jpg",
+                "updatedBefore": "51분 전",
+                "type": "PRODUCT"
+              },
+              {
+                "pid": 431064084,
+                "name": "아이폰 15 프로 256GB 내추럴 티타늄 블랙",
+                "price": 750000,
+                "productImage": "https://media.bunjang.co.kr/product/431064084_1_1789197807_w{res}.jpg",
+                "updatedBefore": "26분 전",
+                "type": "PRODUCT"
+              },
+              {
+                "pid": 423030661,
+                "name": "S급 아이폰 15프로 티타늄 그레이 256GB",
+                "price": 795000,
+                "productImage": "https://media.bunjang.co.kr/product/423030661_1_1788799301_w{res}.jpg",
+                "updatedBefore": "30분 전",
+                "type": "PRODUCT"
+              },
+              {
+                "pid": 346976909,
+                "name": "중고폰매입 아이폰17프로.16프로.15프로.14프로.13프로.12프로.",
+                "price": 999000,
+                "productImage": "https://media.bunjang.co.kr/product/346976909_1_1777961972_w{res}.jpg",
+                "type": "PRODUCT"
+              },
+              {
+                "pid": 429883950,
+                "name": "아이폰 15 프로 블랙티타늄 256GB 풀박스",
+                "price": 750000,
+                "productImage": "https://media.bunjang.co.kr/product/429883950_1_1789109625_w{res}.jpg",
+                "updatedBefore": "3시간 전",
+                "type": "PRODUCT"
+              },
+              {
+                "pid": 430727028,
+                "name": "아이폰15프로 256GB 네추럴 티타늄S급 ( 배터리 100%)",
+                "price": 900000,
+                "productImage": "https://media.bunjang.co.kr/product/430727028_1_1789192499_w{res}.jpg",
+                "updatedBefore": "7시간 전",
+                "type": "PRODUCT"
+              }
+            ],
+            "nextCursor": null
+          }
+        }
+      ]
+    }
+  }
+}
